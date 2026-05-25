@@ -92,12 +92,13 @@ El sistema:
 <h2>📊 Ventana de Protección</h2>
 
 <p align="center">
-  <img src="https://github.com/Salazar0423/STM32_PANEL_SOLAR_LOCEIN/blob/7183db9c91f53e97b2cf27032a8a98d85ff01e95/Simula.png" width="700"/>
+  <img src="https://github.com/Salazar0423/STM32_PANEL_SOLAR_LOCEIN/blob/7183db9c91f53e97b2cf27032a8a98d85ff01e95/Simula.png" width="350"/>
 </p>
 
 <p align="center">
   Gráfica de validación del sistema de protección del convertidor Buck.
 </p>
+
 ---
 
 # 🔍 Lógica de Operación
