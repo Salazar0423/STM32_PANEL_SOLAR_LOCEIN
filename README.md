@@ -89,6 +89,15 @@ El sistema:
 * Apaga completamente el convertidor.
 * Evita funcionamiento inestable.
 
+<h2>📊 Ventana de Protección</h2>
+
+<p align="center">
+  <img src="" width="700"/>
+</p>
+
+<p align="center">
+  Gráfica de validación del sistema de protección del convertidor Buck.
+</p>
 ---
 
 # 🔍 Lógica de Operación
