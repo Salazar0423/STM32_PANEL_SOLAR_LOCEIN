@@ -89,7 +89,7 @@ El sistema:
 * Apaga completamente el convertidor.
 * Evita funcionamiento inestable.
 
-<h2>📊 Ventana de Protección</h2>
+<h2>Grafica de Simulacion</h2>
 
 <p align="center">
   <img src="https://github.com/Salazar0423/STM32_PANEL_SOLAR_LOCEIN/blob/7183db9c91f53e97b2cf27032a8a98d85ff01e95/Simula.png" width="350"/>
