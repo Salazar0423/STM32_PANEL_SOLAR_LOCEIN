@@ -285,9 +285,6 @@ $30.89 USD
 ---
 
 # 🔩 Componentes Principales
----
-
-# 🔩 Componentes Principales
 
 - STM32F103C8T6
 - IR2110S Gate Driver
