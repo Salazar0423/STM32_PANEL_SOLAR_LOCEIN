@@ -182,23 +182,15 @@ Diseño esquemático del convertidor Buck incluyendo:
 
 Como parte del desarrollo del proyecto, se contempla el diseño de una PCB dedicada para integrar la etapa de potencia, control y protección en una sola tarjeta electrónica compacta y eficiente.
 
+El diseño esquemático y el ruteo PCB serán desarrollados utilizando **KiCAD** para facilitar la implementación física del sistema.
+
 El diseño de la PCB estará orientado a:
 
-* Reducir ruido eléctrico.
-* Mejorar la disipación térmica.
-* Optimizar trayectorias de corriente.
-* Facilitar el ensamblaje SMD.
-* Incrementar la confiabilidad del sistema.
-
-### Consideraciones del PCB
-
-#### Etapa de Potencia
-
-Los MOSFETs de potencia en encapsulado D2PAK requerirán:
-
-* Planos de cobre amplios.
-* Vías térmicas.
-* Separación adecuada entre potencia y control.
+- Reducir ruido eléctrico.
+- Mejorar la disipación térmica.
+- Optimizar trayectorias de corriente.
+- Facilitar el ensamblaje SMD.
+- Incrementar la confiabilidad del sistema.
 
 #### Señales de Control
 
