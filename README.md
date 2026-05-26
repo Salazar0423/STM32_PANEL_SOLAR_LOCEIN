@@ -152,6 +152,18 @@ La simulación permitió verificar:
 
 ---
 
+##  Lógica de Protección
+
+La siguiente implementación muestra la lógica utilizada en PLECS para habilitar o deshabilitar el PWM dependiendo del voltaje de entrada del convertidor.
+
+<p align="center">
+  <img src="https://github.com/Salazar0423/STM32_PANEL_SOLAR_LOCEIN/blob/bb5dead720c56d651e5754f11edced24e1dcd779/protec.png" width="500"/>
+</p>
+
+<p align="center">
+  Implementación de protección por sobrevoltaje y bajo voltaje.
+</p>
+
 # 🔌 Diseño Electrónico
 
 El repositorio ahora incluye:
