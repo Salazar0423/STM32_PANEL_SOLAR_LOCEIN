@@ -285,6 +285,19 @@ $30.89 USD
 ---
 
 # 🔩 Componentes Principales
+---
+
+# 🔩 Componentes Principales
+
+- STM32F103C8T6
+- IR2110S Gate Driver
+- IRFS460 MOSFET
+- LM5169FDDAR
+- Inductores de potencia
+- Capacitores de filtrado
+- Resistencia Shunt 2512
+
+---
 
 # 📋 Parámetros del Sistema
 
